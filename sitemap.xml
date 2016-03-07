@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://suimin-labo.info/relux/</loc>
+    <loc>http://suimin-labo.info/aroma/</loc>
     
-    <lastmod>2016-03-02T14:50:39.000Z</lastmod>
+    <lastmod>2016-03-07T23:36:25.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://suimin-labo.info/ng/</loc>
     
-    <lastmod>2016-02-28T16:31:46.000Z</lastmod>
+    <lastmod>2016-03-07T23:34:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://suimin-labo.info/relux/</loc>
+    
+    <lastmod>2016-03-02T14:50:39.000Z</lastmod>
     
   </url>
   
